@@ -7,7 +7,7 @@ const c =
   'hjsgfhjgsdsjgfhsfjdkhfsdfiusydfuisydfiusydfuisydfiusydfiusydfiuysdiufasdasdasdadsasdasdasdasdasdysuidfyiusdyfuisydfuisyfdiusydfiuysiudfyuisyfisudfyuisydfi';
 
 function sum() {
-  return a + b + c;
+  return a + b + c
 }
 
 sum();
